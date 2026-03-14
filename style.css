@@ -7,7 +7,7 @@
     --hijau-tua:    #006B3C;
     --hijau-muda:   #009A55;
     --hijau-terang: #A7F3D0;
-    --PUTIH:        #FFFFFF;
+    --putih:        #FFFFFF;
     --abu-gelap:    #1E293B;
     --abu-muda:     #64748B;
     --bg-section:   #F8FAFC;
@@ -24,7 +24,7 @@
 /* BODY */
 body {
     font-family:    "sagoe UI", Arial, sans-serif;
-    background-color:  var(--PUTIH);
+    background-color:  var(--putih);
     color:             var(--abu-gelap);
     line-height:        1.6;
 }
@@ -65,7 +65,7 @@ html {
     .logo-bulat {
         width:            52px;
         height:           52px;
-        background-color: var(--PUTIH);
+        background-color: var(--putih);
         color:            var(--hijau-tua);
         border-radius:    50%;
         display:          flex;
@@ -81,7 +81,7 @@ html {
     }
 
     .logo-nama {
-        color:       var(--PUTIH);
+        color:       var(--putih);
         font-weight: bold;
         font-size:   15px;
     }
@@ -97,7 +97,7 @@ html {
     }
 
     .menu-link {
-        color:              var(--PUTIH);
+        color:              var(--putih);
         text-decoration:    none;
         font-size:          14px;
         font-weight:        500;
@@ -165,7 +165,7 @@ html {
 }
 
 .hero-judul {
-    color:           var(--PUTIH);
+    color:           var(--putih);
     font-size:       52px;
     font-weight:     800;
     line-height:     1.2;
@@ -187,7 +187,7 @@ html {
 }
 
 .tombol-utama {
-    background-color:    var(--PUTIH);
+    background-color:    var(--putih);
     color:               var(--hijau-tua);
     padding:             14px 32px;
     border-radius:       8px;
@@ -203,8 +203,8 @@ html {
 }
 
 .tombol-outline {
-    border: 2px solid var(--PUTIH);
-    color: var(--PUTIH);
+    border: 2px solid var(--putih);
+    color: var(--putih);
     padding: 14px 32px;
     border-radius: 8px;
     text-decoration: none;
@@ -214,7 +214,7 @@ html {
 }
 
 .tombol-outline:hover {
-    background-color: var(--PUTIH);
+    background-color: var(--putih);
     color: var(--hijau-tua);
     transform: translateY(-2px);
 }
@@ -240,7 +240,7 @@ html {
 
 .stat-item {
     text-align: center;
-    color: var(--PUTIH);
+    color: var(--putih);
 }
 
 .stat-angka {
@@ -252,7 +252,7 @@ html {
 .stat-satuan {
     font-size: 36px;
     font-weight: 700;
-    color: var(--PUTIH);
+    color: var(--putih);
 }
 
 .stat-label {
